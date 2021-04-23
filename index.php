@@ -1,6 +1,7 @@
 <?php
 
- echo "Hello Word - 88888"
+ echo "Hello Word - 123"
+  
+ echo "Ola galera"
 
-echo "Ola mundo velho"
 ?>
